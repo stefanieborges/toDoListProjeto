@@ -4,7 +4,7 @@
 
 📌 Para acessar o código fonte desse projeto basta trocar a branch para master! 
 
-## Abaixo segue o layout do site To Do list 😄👩🏽‍💻
+## Abaixo segue o layout do site To Do List 😄👩🏽‍💻
 
 Tecnologias utilizadas: HTML, CSS, JavaScript, GIT, Github armazenando o repositório e hospedando o site)
 
