@@ -5,7 +5,7 @@ Para acessar o código fonte desse projeto basta trocar a branch para master
 
 ## Abaixo segue o layout do site To Do list 😄👩🏽‍💻
 
-<img src="https://stefanieborges.github.io/toDoListProjeto/Captura%20de%20tela%202023-08-31%20175729.png" width="500px" height="500px"/>
+<img src="https://stefanieborges.github.io/toDoListProjeto/Captura%20de%20tela%202023-08-31%20175729.png" width="800px" height="500px"/>
 
 Tecnologias utilizadas: HTML, CSS, JavaScript, GIT, Github armazenando o repositório e hospedando o site)
 
