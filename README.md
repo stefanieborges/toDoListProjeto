@@ -10,6 +10,6 @@ Tecnologias utilizadas: HTML, CSS, JavaScript, GIT, Github armazenando o reposit
 
 TO DO LIST - Disponível em: TO DO LIST - Disponível em: stefanieborges.github.io/toDoListProjeto/#
 
-<img src="https://stefanieborges.github.io/toDoListProjeto/ToDoListImg.png" width="500px" height="500px"/>
+<img src="https://stefanieborges.github.io/toDoListProjeto/ToDoListImg.png"/>
 
 
