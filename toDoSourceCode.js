@@ -33,7 +33,7 @@ btn_add.addEventListener("click", ()=>{
         "cursor: pointer;"+
         "width: 42px"
     btn_remove.setAttribute("style", style_btnremove);
-    btn_remove.setAttribute("src", "/excluir.png");
+    btn_remove.setAttribute("src", "https://stefanieborges.github.io/toDoListProjeto/excluir.png");
     btn_remove.addEventListener("click", ()=>{
         list_add.remove();
     })
