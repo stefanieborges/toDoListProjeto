@@ -6,7 +6,7 @@
 
 ## Abaixo segue o layout do site To Do List 😄👩🏽‍💻
 
-Tecnologias utilizadas: HTML, CSS, JavaScript, GIT, Github armazenando o repositório e hospedando o site)
+Tecnologias utilizadas: HTML, CSS, JavaScript, GIT, Github (armazenando o repositório e hospedando o site)
 
 📌 TO DO LIST - Disponível em: stefanieborges.github.io/toDoListProjeto/#
 
